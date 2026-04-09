@@ -43,11 +43,8 @@ This project includes a split-screen layout:
 
 ## Screenshot
 
-Add your project image here:
+<img width="1536" height="1024" alt="JavaScript code meets AI chat interface" src="https://github.com/user-attachments/assets/0bafe208-adb9-40bc-bbce-0c228a5291f7" />
 
-```markdown
-![Geetanshi AI Assistant](your-image-file.png)
-<img width="1536" height="1024" alt="JavaScript code meets AI chat interface" src="https://github.com/user-attachments/assets/c3781ee2-e19a-441c-87c7-bf28fae033a6" />
 
 ```
 
