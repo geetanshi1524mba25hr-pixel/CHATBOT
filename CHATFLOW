@@ -1,0 +1,43 @@
+{
+  "title": "Geetanshi's AI Assistant",
+  "description": "A simple and elegant AI chatbot interface built using HTML, CSS, and JavaScript integrated with OpenAI API.",
+  "features": [
+    "Clean and modern chatbot UI",
+    "Real-time AI responses",
+    "Enter key message sending",
+    "Gradient responsive design",
+    "User & bot chat bubbles",
+    "Error handling for API connection"
+  ],
+  "preview": {
+    "layout": "Split-screen",
+    "left": "JavaScript code connecting to OpenAI API",
+    "right": "Chatbot UI labeled Geetanshi's AI Assistant"
+  },
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "OpenAI API"
+  ],
+  "how_it_works": [
+    "User types a message in input field",
+    "Message sent to OpenAI API",
+    "AI processes request",
+    "Response displayed in chat window"
+  ],
+  "use_cases": [
+    "Personal AI assistant",
+    "Student chatbot projects",
+    "Frontend + API integration demo",
+    "UI/UX chatbot design practice"
+  ],
+  "screenshot": "![Geetanshi AI Assistant](your-image-file.png)",
+  "future_improvements": [
+    "Voice input support",
+    "Dark/light mode toggle",
+    "Chat history saving",
+    "Typing animation"
+  ],
+  "footer": "If you like this project, give it a star"
+}
